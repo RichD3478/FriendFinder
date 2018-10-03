@@ -1,7 +1,7 @@
 const friends = [
     {
-        name: "Ahmed",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+        name: "Will Smith",
+        photo: "https://peopledotcom.files.wordpress.com/2018/02/will-smith.jpg",
         scores: [
             "5",
             "1",
