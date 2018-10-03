@@ -15,7 +15,7 @@ module.exports = function (app) {
         const userData = req.body;
         const userScores = userData.scores;
 
-        const totalDifference = "";
+        const totalDifference = [];
 
         for (const i = 0; i < friends.length; i++) {
             const currentFriend = friends[i];
